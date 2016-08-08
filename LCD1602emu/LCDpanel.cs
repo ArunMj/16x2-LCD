@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace LCD1602emu
 {
-	public partial class LCDpanelSIM : UserControl
+	public partial class LCDpanel : UserControl
 	{
 
 	}

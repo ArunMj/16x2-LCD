@@ -37,7 +37,10 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LCDpanelSim.cs">
+    <Compile Include="LCDpanel.Memory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LCDpanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
